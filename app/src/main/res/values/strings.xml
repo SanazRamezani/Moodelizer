@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Track Pad</string>
+    <string name="title">Touch the Track Pad to change background color</string>
+    <string name="coordinates">X: %1s\nY: %2s</string>
+</resources>
